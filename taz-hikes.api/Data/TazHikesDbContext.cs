@@ -6,7 +6,7 @@ namespace taz_hikes.api.Data
 {
 	public class TazHikesDbContext : DbContext
 	{
-		public TazHikesDbContext(DbContextOptions dbContextOptions): base(dbContextOptions)
+		public TazHikesDbContext(DbContextOptions<TazHikesDbContext> dbContextOptions): base(dbContextOptions)
 		{
 		}
 
