@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using taz_hikes.api.Data;
+using TazHikes.api.Data;
 
 #nullable disable
 
-namespace taz_hikes.api.Migrations
+namespace TazHikes.api.Migrations
 {
     [DbContext(typeof(TazHikesDbContext))]
     [Migration("20230817051213_InitialCreate")]

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace taz_hikes.api.Migrations
+namespace TazHikes.api.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration
