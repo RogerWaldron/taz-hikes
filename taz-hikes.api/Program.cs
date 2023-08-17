@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using taz_hikes.api.Data;
+using TazHikes.api.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

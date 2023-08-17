@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace taz_hikes.api.Controllers;
+namespace TazHikes.api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using taz_hikes.api.Models;
+using TazHikes.api.Models;
 
-namespace taz_hikes.api.Data
+namespace TazHikes.api.Data
 {
 	public class TazHikesDbContext : DbContext
 	{

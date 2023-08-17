@@ -1,4 +1,4 @@
-﻿namespace taz_hikes.api;
+﻿namespace TazHikes.api;
 
 public class WeatherForecast
 {

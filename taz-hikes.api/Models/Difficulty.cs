@@ -1,5 +1,5 @@
 ﻿using System;
-namespace taz_hikes.api.Models
+namespace TazHikes.api.Models
 {
 	public class Difficulty
 	{
